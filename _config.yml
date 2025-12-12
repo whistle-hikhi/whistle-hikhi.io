@@ -23,7 +23,7 @@ repository               : "whistle-hikhi.github.io/whistle-hikhi.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "github.jpeg"
   name             : "Hung Nguyen Huy"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
